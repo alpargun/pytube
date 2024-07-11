@@ -1,3 +1,8 @@
+# Why does this fork exist?
+
+- Adds regex support to get all videos from a channel using `@channel_name`
+- Fixes regex in *cipher.py* to create video stream objects.
+
 <div align="center">
   <p>
     <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
